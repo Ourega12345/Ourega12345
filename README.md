@@ -69,7 +69,6 @@ Diplôme de technicien supérieur — 2024
 
 J'ai organisé et saisi les données des étudiants dans une base de données simulée.
 
-J'ai collaboré avec une équipe pour respecter les délais.
 
  Soutien informatique bénévole — Centre communautaire
 
