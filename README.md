@@ -1,5 +1,5 @@
 ##   OUREGA ISIDORE DAGO
-Récemment diplômé(e) du Collège La Cité (Ottawa, Canada)
+Etudiant au Collège La Cité (Ottawa, Canada)
  Intéressé(e) par l'ingénierie des données, les technologies cloud et le Machine learning 
  Actuellement en train d'apprendre et de perfectionner mes compétences techniques et professionnelles
 À la recherche de ma première opportunité professionnelle dans le secteur des technologies
@@ -7,6 +7,7 @@ Récemment diplômé(e) du Collège La Cité (Ottawa, Canada)
 Je suis un jeune professionnel de l'informatique motivé et rigoureux, passionné par les données et les technologies cloud.
 J'apprécie apprendre de nouveaux outils, résoudre des problèmes, organiser des données et travailler en équipe.
 J'ai acquis une expérience pratique grâce à des projets universitaires et à du bénévolat, où j'ai développé de solides bases dans les domaines suivants :
+
 Organisation et validation des données
 
 Programmation de base avec Python
